@@ -1,6 +1,6 @@
 {
     "azuredeploy": [
-        "Password": {
+        {"Password": {
             "type":"Password/Sysga1n4205!",
             "properies":{
  
@@ -8,8 +8,9 @@
             "mapping":{
                 "Password":"sqlDWAdminPassword"
             }
+        }
         },
-        "guid1": {
+        {"guid1": {
             "type":"guid",
             "properies":{
  
@@ -17,8 +18,9 @@
             "mapping":{
                 "guid":"jobId"
             }
+        }
         },
-        "guid2": {
+        {"guid2": {
             "type":"guid",
             "properies":{
  
@@ -26,6 +28,7 @@
             "mapping":{
                 "guid":"jobId2"
             }
+        }
         }
     ]
 }
