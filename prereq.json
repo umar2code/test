@@ -1,5 +1,5 @@
 {
-    "azuredeploy": {
+    "azuredeploy": [
         "Password": {
             "type":"Password/Sysga1n4205!",
             "properies":{
@@ -27,5 +27,5 @@
                 "guid":"jobId2"
             }
         }
-    }
+    ]
 }
