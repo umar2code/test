@@ -1,7 +1,7 @@
 {
     "azuredeploy": {
         "Password": {
-            "type":"Password/Sysga1n4205!",
+            "type":"Password",
             "properies":{
  
             },
