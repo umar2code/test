@@ -24,7 +24,7 @@
  
             },
             "mapping":{
-                "guid2":"jobId2"
+                "guid2":"jobIdSignup"
             }
         }
     }
